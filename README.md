@@ -1,2 +1,3 @@
-# projectEuler
-collection of project Euler solutions 
+# Project Euler
+Collection of project Euler solutions.
+* https://projecteuler.net/
